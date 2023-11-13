@@ -1,4 +1,4 @@
-# arnav_app
+# Arnav's Portfolio - Web Embedded Application
 Utilizing WebView in Flutter to transform your personal portfolio website into a dedicated iOS and Android application is a practical and cost-effective way to expand your online presence. This approach offers several advantages and opportunities for customization and enhancement:
 
 1. **Cross-Platform Accessibility**: With WebView, you can create a single codebase that works seamlessly on both iOS and Android platforms. This eliminates the need to build and maintain separate applications for each, saving time and resources.
